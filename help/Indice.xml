@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='ISO-8859-1'  ?>
+<!DOCTYPE index
+  PUBLIC "-//Sun Microsystems Inc.//DTD JavaHelp Index Version 1.0//EN"
+         "http://java.sun.com/products/javahelp/index_1_0.dtd">
+
+<index version="1.0">
+
+  <indexitem text="alojamientos">
+  	<indexitem text="tipos alojamientos" target="alojamientos"/>
+  	<indexitem text="filtrar alojamientos" target="alojamientos"/>
+  </indexitem>
+  <indexitem text="formalizar reserva">
+    <indexitem text="confirmación de reserva" target="formalizar" />
+    <indexitem text="resumen final" target="formalizar" />
+  </indexitem>
+  <indexitem text="inicio" target="intro" />
+  <indexitem text="parques">
+    <indexitem text="filtrar parques" target="parques"/>
+    <indexitem text="ver detalles parques" target="parques"/>
+  </indexitem>
+  <indexitem text="promociones">
+      <indexitem text="minijuego" target="juego" />
+      <indexitem text="premio" target="juego" />
+  </indexitem>
+  <indexitem text="reserva">
+      <indexitem text="pasos reservar" target="reserva" />
+      <indexitem text="fechas reservar" target="reserva" />
+  </indexitem>
+  
+  
+</index>

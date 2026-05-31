@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+<!DOCTYPE toc
+  PUBLIC "-//Sun Microsystems Inc.//DTD JavaHelp TOC Version 1.0//EN"
+         "http://java.sun.com/products/javahelp/toc_1_0.dtd">
+
+<toc version="1.0">
+  
+  <tocitem text="Ayuda Maray Agency" target="intro"/>
+  <tocitem text="Catálogos y Búsqueda">
+  	<tocitem text="Explorar Parques" target="parques"/>
+  	<tocitem text="Buscar Alojamientos" target="alojamientos"/>
+  </tocitem>
+  <tocitem text="Gestión de Reservas">
+      <tocitem text="Cómo Reservar" target="reserva"/>
+      <tocitem text="Confirmar y Formalizar" target="formalizar"/>
+      <tocitem text="Minijuego de Fidelidad" target="juego"/>
+  </tocitem>
+
+</toc>
